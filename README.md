@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-    <sup>This is a smooth and modern landing page designed for a "Nothing Technology" company. </br> For develop this project was using HTML, SCSS, and BEM methodology.</sup>
+    <sup>This is a smooth and adaptive landing page designed for a "Nothing Technology" company. </br> For develop this project was using HTML, SCSS, and BEM methodology.</sup>
 </h3>
 
 <p align="center">
