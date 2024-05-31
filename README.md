@@ -17,7 +17,7 @@
   <img width="412" src="https://github.com/nk8bnj/nothing-technology/blob/master/screenshots/Screenshot-4.png">
 </p>
 
-## Technologies Used
+<h2 align="center">Technologies Used</h2>
 
 - HTML
 - CSS (SCSS)
